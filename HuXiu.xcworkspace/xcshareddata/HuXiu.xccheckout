@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>568900AD-C32F-4B6C-AF04-391097C9CDBD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HuXiu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>93D218DBBD31259EEF9C3D09CDD678E5585B8696</key>
+		<string>github.com:6david9/HuXiu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HuXiu.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>93D218DBBD31259EEF9C3D09CDD678E5585B8696</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:6david9/HuXiu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>93D218DBBD31259EEF9C3D09CDD678E5585B8696</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>93D218DBBD31259EEF9C3D09CDD678E5585B8696</string>
+			<key>IDESourceControlWCCName</key>
+			<string>weixinyingxiao</string>
+		</dict>
+	</array>
+</dict>
+</plist>
